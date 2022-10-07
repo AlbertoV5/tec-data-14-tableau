@@ -1,9 +1,42 @@
-#+title: tableau
+#+title: Citibike Analysis
 #+subtitle: 
 #+author: Alberto Valdez
-#+SETUPFILE: ../config/org-theme.config
-#+SETUPFILE: ../config/org-header.config
+#+SETUPFILE: ./config/org-theme.config
+#+SETUPFILE: ./config/org-header.config
 
-* tableau
+* Citibike Analysis
 
-https://public.tableau.com/shared/ZPQ83BJ8X?:display_count=n&:origin=viz_share_link
+In your README markdown file, include the following:
+Overview of the analysis: Explain the purpose of this analysis.
+Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
+Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+
+
+** Overview
+
+In this project we had the mission to provide answers to the stakeholder's questions. The best way to do it is by using a sequence of visualizations that helps us tell a compelling story. In order to achieve such task we sought the help of Tableau which is a great solution for visualization-heavy projects.
+
+** Results
+
+The main result is the following dashboard.
+
+[[https://public.tableau.com/shared/ZPQ83BJ8X?:display_count=n&:origin=viz_share_link][Dashboard]]
+
+In order to create it we constructed many visualizations that answer different questions.
+
+1. 1
+
+2. 2
+
+3. 3
+
+4. 4
+
+5. 5
+
+6. 6
+
+7. 7
+
+
+** Summary
